@@ -1,36 +1,14 @@
 # E-commerce project 
  It's MERN stack project having Google/Local authentication system
 ## it is a simple E-commerce project where user can buy and sell their products.
-<h2>Functionality</h2>
-<ul>
-<li> Login/Signup page with Google Authentication 
-</li>
-<li> Add products
-</li>
-<li> Update Product 
-</li>
-<li> Delete Product
-</li>
-</ul>
 
-<h2>Technology used</h2>
-<ul style="color:blue;">
-<li> React Js
-</li>
-<li> Express js 
-</li>
-<li> Node js 
-</li>
-<li> Mongodb/Moongos Database 
-</li>
-<li> JWT token 
-</li>
-<li> Bcrypt for Password hashing
-</li>
-</ul>
+## The main window of project is given below
+![Screenshot (220)](https://user-images.githubusercontent.com/100334959/185147601-8323ecc9-1d5b-4a38-91a2-3bb2ec21f0f4.png)
 
-<h3 style="color:blue;">How to use </h3>
-<p>1. Simply clone the repository. </p>
-<p>2. Run the command "npm install", make sure you already installed the Node in your system.</p>
-<p>3. After completing second process rum "nodemon" command in e-commerce-backend folder.</p>
-<p> 4.Run "npm start" in e-commerce-frontend folder. </p>
+## User can choose from range of products according to their choice and price.
+![Screenshot (221)](https://user-images.githubusercontent.com/100334959/185148108-a0580b52-a904-4eac-8691-4cbb39c99961.png)
+
+## User has to SignUp/Login to perform any action in the site.
+![Screenshot (222)](https://user-images.githubusercontent.com/100334959/185148768-5d41e3c2-aa98-48da-aec1-981ce63ecf02.png)
+
+## The project is simple demonstartion of E-Commerce front end and signup/login functionality, there are lots of work need to be done.
