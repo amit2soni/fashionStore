@@ -1,0 +1,51 @@
+body{
+    background:radial-gradient(#fff,#ffd6d6);
+
+}
+.navbar {
+    padding-left: 20px;
+}
+
+.navbar .active {
+    background-color: #69f1bf;
+}
+
+.logo{
+
+  display: block;
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+}
+
+.navbar .profile {
+    margin-left: 5px
+}
+
+.mobile-navbar {
+    background-color: #69f1bf;
+    justify-content: space-between;
+}
+
+.mobile-profile {
+    margin-right: 10px;
+}
+
+#addproductbox {
+    padding: 20px;
+}
+.proddisc .MuiTextField-root{
+    width: 100% !important;
+}
+.table-container{
+    width: 70vw !important;
+    margin: auto;
+    margin-top: 20px;
+}
+#select-required{
+    padding: 8px 14px !important;
+}
